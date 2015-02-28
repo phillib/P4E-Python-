@@ -3,4 +3,4 @@ while True:
     if line == 'done':
         break
     print line
-print 'Done!'
+print "Done!"
