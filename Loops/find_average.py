@@ -6,3 +6,5 @@ for value in [9, 41, 12, 3, 74, 15]:
     sum = sum + value
     print count, sum, value
 print 'After', count, sum, sum / count
+
+# This loop will find the average value of a list of numbers.
