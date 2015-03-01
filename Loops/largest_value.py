@@ -5,3 +5,5 @@ for the_num in [9, 41, 12, 3, 74, 15]:
         largest_so_far = the_num
     print largest_so_far, the_num
 print 'After', largest_so_far
+
+# This loop will find the largest value in a list of numbers.
